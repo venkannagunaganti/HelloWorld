@@ -4,6 +4,7 @@ from pathlib import Path
 from datetime import datetime
 from pathlib import Path
 class A:
+    #writing to log file
     def write_to_log_file(self,path1,path2):
         message1="this is first msg \n"
         message2="this is sec msg "
